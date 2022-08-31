@@ -1,0 +1,276 @@
+body {
+    background-image: url(../images/b_body.jpg);
+}
+
+.all {
+    background-image: url("../images/b_coffee.jpg");
+
+    width: 950px;
+    height: 1200px;
+
+    margin: 0 auto;
+}
+
+.menu {
+    width: 19%;
+    height: 8%;
+
+    float: left;
+    text-align: center;
+}
+
+.logo {
+    width: 100%;
+    height: 12%;
+
+}
+
+.logo1 {
+    width: 30%;
+    float: left;
+}
+
+.logo2 {
+    width: 69%;
+    float: right;
+    margin-top: 12px;
+    text-align: center;
+}
+
+.image {
+    width: 100%;
+    height: 25%;
+    margin-top: 20px;
+
+
+}
+
+.image1 {
+    width: 261px;
+    height: 261px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.image2 {
+    width: 4%;
+    display: inline-block;
+    text-align: center;
+}
+
+.info {
+    width: 91%;
+    height: 27%;
+    margin: 0 auto;
+}
+
+.info1 {
+    width: 32%;
+    height: 100%;
+    display: inline-block;
+
+}
+
+.info1 ul {
+    line-height: 1.8;
+    margin-top: 32px;
+}
+
+.data {
+    width: 38%;
+    border: 1px black dashed;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 15px;
+}
+
+.text2 {
+    margin-left: 20px;
+}
+
+.dataText {
+    color: forestgreen;
+}
+
+.link {
+    display: inline-block;
+}
+
+.end {
+    margin-left: 40px;
+    color: darkgrey;
+}
+
+.icon {
+    background-image: url(../images/b_coffee2.jpg);
+    display: inline-block;
+    margin-right: 125px;
+}
+
+.about_me {
+    float: left;
+    width: 40%;
+}
+
+.about_me1 {
+    float: right;
+    width: 60%;
+}
+
+.education {
+    float: left;
+    width: 40%;
+}
+
+.education1 {
+    float: right;
+    width: 60%;
+}
+
+.education2 {
+    display: inline-block;
+    width: 40%;
+}
+
+.education3 {
+    display: inline-block;
+    width: 20%;
+    margin-right: 30px;
+}
+
+.flex {
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.size {
+    width: 35%;
+}
+
+.size1 {
+    width: 65%;
+}
+
+.left {
+    margin-left: 25px;
+    line-height: 0.5;
+}
+
+#border {
+    width: 545px;
+    height: 567px;
+    border: black 1px dashed;
+}
+
+.size2 {
+    width: 50%;
+}
+
+.size3 {
+    margin-left: 100px;
+    position: relative;
+}
+
+.interval {
+    margin-left: 20px;
+}
+
+.num1 {
+    position: absolute;
+    left: 29px;
+    top: 3px;
+}
+
+.num2 {
+    position: absolute;
+    left: 72px;
+    top: 3px;
+}
+
+.num3 {
+    position: absolute;
+    left: 119px;
+    top: 3px;
+}
+
+.textFormat {
+    color: forestgreen;
+    text-decoration: underline;
+}
+
+.services {
+    width: 32%;
+    margin-right: 30px;
+}
+
+#top {
+    margin-top: 30px;
+}
+
+.line_height {
+    margin-left: 20px;
+    line-height: 1.8;
+}
+
+.textFormat1 {
+    color: forestgreen;
+}
+
+.textFormat2 {
+    color: chocolate;
+}
+
+.flex1 {
+    display: flex;
+    margin-top: 0px;
+}
+
+.top {
+    margin-top: 30px;
+}
+
+.flex2 {
+    margin-right: 20px;
+    position: relative;
+}
+
+.flex3 {
+    display: flex;
+}
+
+.img {
+    position: absolute;
+    bottom: 200px;
+    left: 447px;
+}
+
+.img1 {
+    position: absolute;
+    bottom: 200px;
+    left: 730px;
+}
+
+.img2 {
+    position: absolute;
+    bottom: 200px;
+    right: 710px;
+}
+
+.img3 {
+    position: absolute;
+    bottom: 120px;
+    left: 25%;
+}
+
+#img4 {
+    display: inline-block;
+    margin-left: 600px;
+}
+
+#img5 {
+    display: inline-block;
+}
+
+
